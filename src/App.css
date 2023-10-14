@@ -1,0 +1,11 @@
+main {
+  text-align: center;
+
+}
+
+/* error handling */
+.error-handling{
+  text-align:center;
+  color:red;
+  font-family:sans-serif
+}

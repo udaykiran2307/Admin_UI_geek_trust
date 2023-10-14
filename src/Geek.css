@@ -1,0 +1,91 @@
+.Searchbar{
+  width : 87vw;
+  height : 6vh;
+  margin : 1rem;
+  /* border-radius: 1%; */
+}
+
+.grid-container {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  margin-left: 1rem;
+  height: 3.2rem;
+  text-align:start
+}
+
+.grid-item {
+  padding: 1rem;
+  text-align: start;
+  flex: 1;
+}
+.input-checkbox {
+  width: 1.2rem; 
+  max-width: 1.2rem; 
+}
+ .selected{
+    background-color:#dcdee0 ;
+  }
+.hr-width{
+  align-items:center
+  width : 100vw;
+  margin-top:-0.5rem;
+}
+
+.entry{
+  margin-left : 1rem;
+  margin-right : 1rem;
+}
+
+.item1{
+  margin-left:2rem;
+}
+
+.item2,
+.item3,
+.item4,
+.item5 {
+  font-weight:bold;
+  font-family:sans-serif;
+  /* text-align:center; */
+}
+
+  .edit-btn{
+    margin-right:1px;
+    border: none;
+    background:white;
+    width: 1.5rem;
+    height:1.5rem;
+  }
+
+  .delete-btn{
+    border:none;
+    background:white;
+    color:red;
+    width: 1.5rem;
+      height:1.5rem;
+    margin-left:-2px;
+  }
+
+  .save-btn{
+    border:none;
+    background:white;
+    color:green;
+    width: 1.5rem;
+      height:1.5rem;
+    margin-left:-2px;
+  }
+
+  .undo-btn{
+    border:none;
+    background:white;
+    color:red;
+    width: 1.5rem;
+    height:1.5rem;
+    margin-left:-2px;
+  }
+
+
+
+
+
